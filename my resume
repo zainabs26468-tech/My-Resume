@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY ProfessionalRresume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="resume">
+        <header>
+            <h1>Zainab Shoaib</h1>
+            <h3>Aspiring fronted developer</h3>
+            <div class="contact-info">
+                <p>Email: zainabs2646.8@gmail.com</p>
+                <p>Phone : 03032649519</p>
+            <a href="https://www.linkedin.com/in/zainab-shoaib-5a2a01447/"
+   target="_blank">
+   LinkedIn Profile
+</a>
+<p>
+    Portfolio:
+    <a href="https://precious-begonia-5ddd99.netlify.app" target="_blank">
+        View My Portfolio
+    </a>
+</p>
+    </div>
+    </header>
+    <section>
+        <h2>Career objective</h2>
+        <p>Motivated Motivated and passionate aspiring Web Developer
+                with knowledge of HTML and CSS and an interest
+                in JavaScript. Eager to develop creative websites,
+                improve technical skills and gain practical
+                experience through projects and internships.</p>
+    </section>
+    <section>
+        <H2>Education</H2>
+        <dic class="item">
+        <h3>Matriculation</h3>
+        <p>Collge Name : Bahria college EAB-2 Campus</p>
+        <p>Year of Passing : 2026</p>
+        <p>Currently pursuing Intermediate at Bahria collge karsaz karachi </p>
+        </dic>
+    </section>
+    <section>
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Responsive web designer</li>
+            <li>Visual Studio Code</li>
+        </ul>
+    </section>
+    <section>
+    <h3>My Website</h3>
+
+<p>Explore my web development work.</p>
+
+<a href="https://zainab-shoaibbbo.netlify.app?utm_source=chatgpt.com" target="_blank">
+    Visit Website
+</a>
+</section>
+    <section id="projects">
+    <h2>My Projects</h2>
+
+    <h3>1. Chess Board</h3>
+    <p>Created a chessboard using HTML tables and Unicode symbols.</p>
+    <a href="https://zainab-shoai.netlify.app?utm_source=chatgpt.com" target="_blank">
+        View Chess Board
+    </a>
+
+    <h3>2. Admission Registration Form</h3>
+    <p>Created an admission form using HTML form elements.</p>
+    <a href="https://nimble-souffle-08a23d.netlify.app?utm_source=chatgpt.com" target="_blank">
+        View Registration Form
+    </a>
+
+</section>
+<section>
+                        <h2>Personal Strentgh</h2>
+                        <ul>
+                            <li>Quick Learner</li>
+                            <li>Creative Thinking </li>
+                            <li>Teamwork</li>
+                            <li>Problem Solving</li>
+                            <li>Willingness to learn</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Language </h2>
+                        <ul>
+                            <li>English</li>
+                            <li>Urdu</li>
+                        </ul>
+                    </section>
+                    <footer>
+                        <p> Thank you for reviewing my resume </p>
+</footer>
+</div>
+
+
+
+
+    
+
+</body>
+</html>
